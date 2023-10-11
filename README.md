@@ -1,2 +1,2 @@
 # UoR-Coursework
-This repository stores all my final presentations of various courses I took at the University of Rochester
+This repository stores my presentations of various courses I took at the University of Rochester
